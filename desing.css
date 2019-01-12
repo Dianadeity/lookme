@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=BenchNine:700&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:700');
+@import url('https://fonts.googleapis.com/css?family=Nunito:700|Oswald:200|Rajdhani:300');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300');
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri:300');
+
+
+
+
+
+body {
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Banana-Background-Full-HD.jpg");
+    background-size:100% 650px;
+    background-repeat: no-repeat;    
+    margin: 0;
+    padding: 0;
+    border: 0;
+     }
+
+
+.background-ic{
+    background-color: #072b79;
+    background: rgba(22, 26, 33, 0.8);
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    font-size: 150px;
+    color: #f7f2ed;
+    font-family: 'Oswald', sans-serif;  
+    text-align: center;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-weight: 100;
+    
+}
+
+.letters{
+    text-align: center;
+    color: #f7f2ed;
+    font-family:'Hind Siliguri', sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+ 
+h3{
+     text-decoration: none;
+     font-family: 'Nunito', sans-serif; 
+     color: #f7f2ed;
+     font-weight: 900;
+     text-underline-position: inherit;
+     text-align: center;
+ }
+ 
+.baricons{
+     overflow: hidden;
+     position: relative;
+     margin-left: 43%;
+     margin-right: 43%
+
+ }
+
+ .baricons .iconbig {
+     float: left;
+     position: relative;
+     align-items: center;
+     padding: 10px 10px;
+     display: inline-block;
+ }
+
+ 
+
+
+
+
+
+
+
+
+
+.barnav{
+    overflow: hidden;
+    position: center;
+    margin-left: 32%;
+    margin-right: 32%;
+ 
+}
+
+.barnav .optionbar{
+    float: center;
+    position: center;
+    color: #f7f2ed;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 10px 14px;
+    display: inline-block;
+    
+
+}
+
+
+ 
+.barnav .optionbar:hover {
+    
+    color: black;
+}
+
+
+hr{
+    margin: 0;
+    padding: 0;
+    margin-left: 25%;
+    margin-right:25% ;
+    margin-top: 0; 
+}
+.line-down{
+    margin: 0;
+    padding: 0;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+.imgprofile{
+    position: center;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    margin-left: 47%;
+    margin-right: 47% ;
+}
